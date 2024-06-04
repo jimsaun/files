@@ -7,4 +7,4 @@
 ╚═════╝  ╚═════╝    ╚═╝   ╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝
 ```
 
-![](https://raw.githubusercontent.com/jimsaun/dotfiles/main/palettes.png) 
+![](https://raw.githubusercontent.com/jimsaun/files/dotfiles/main/palettes.png) 
