@@ -7,4 +7,4 @@
 ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝╚═╝     ╚═╝╚══════╝
 ```
 
-![](https://raw.githubusercontent.com/jimsaun/files/dotfiles/main/sublime/preview.png)
+![](https://raw.githubusercontent.com/jimsaun/files/main/dotfiles/sublime/preview.png)

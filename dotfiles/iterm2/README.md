@@ -7,4 +7,4 @@
 ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝ 
 ```
 
-![](https://raw.githubusercontent.com/jimsaun/files/dotfiles/main/iterm2/preview.png)
+![](https://raw.githubusercontent.com/jimsaun/files/main/dotfiles/iterm2/preview.png)

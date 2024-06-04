@@ -7,4 +7,4 @@
 ╚══════╝╚═╝     ╚═╝ ╚═════╝╚══════╝   ╚═╝   ╚═╝╚═╝        ╚═╝   
 ```
 
-![](https://raw.githubusercontent.com/jimsaun/files/dotfiles/main/spicetify/preview.png)
+![](https://raw.githubusercontent.com/jimsaun/files/main/dotfiles/spicetify/preview.png)
